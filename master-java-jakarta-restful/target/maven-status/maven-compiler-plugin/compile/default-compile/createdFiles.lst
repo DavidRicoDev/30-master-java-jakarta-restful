@@ -1,0 +1,8 @@
+es\davidrico\jakarta\restful\repositorios\CursoRepositoryImpl.class
+es\davidrico\jakarta\restful\ProducerEntityManager.class
+es\davidrico\jakarta\restful\servicios\CursoService.class
+es\davidrico\jakarta\restful\servicios\CursoServiceImpl.class
+es\davidrico\jakarta\restful\controladores\CursoRestController.class
+es\davidrico\jakarta\restful\modelos\Curso.class
+es\davidrico\jakarta\restful\modelos\Instructor.class
+es\davidrico\jakarta\restful\repositorios\CursoRepository.class
